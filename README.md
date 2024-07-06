@@ -18,6 +18,17 @@ These templates are designed to help you achieve these goals.
 2. **Customize Your Resume**: Replace the placeholder text with your own information, focusing on accomplishments rather than job duties.
 3. **Save and Export**: Once you've tailored the resume to your liking, save it and export it as a PDF.
 
+## Available Templates
+
+Here are some of the resume templates available in this repository:
+
+- [ASU Resume Template](https://www.overleaf.com/latex/templates/asu-resume-template/jtwpddspxjtm)
+- [Resume Template by Anubhav](https://www.overleaf.com/latex/templates/resume-template-by-anubhav/dhmkrwtksdgy)
+- [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
+- [AlgoUniversity Student Resume Template](https://www.overleaf.com/latex/templates/algouniversity-student-resume-template/kvnkfvqcytfd)
+- [SWE Resume Template](https://www.overleaf.com/latex/templates/swe-resume-template/bznbzdprjfyy)
+- [My Resume](https://drive.google.com/file/d/1uu0Tri-lNTBARYLWYvPs2-sqiv4BxuSs/view?usp=sharing)
+
 
 ## Important Note
 
