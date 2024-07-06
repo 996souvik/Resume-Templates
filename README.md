@@ -28,6 +28,7 @@ Here are some of the resume templates available in this repository:
 - [AlgoUniversity Student Resume Template](https://www.overleaf.com/latex/templates/algouniversity-student-resume-template/kvnkfvqcytfd)
 - [SWE Resume Template](https://www.overleaf.com/latex/templates/swe-resume-template/bznbzdprjfyy)
 - [My Resume](https://drive.google.com/file/d/1uu0Tri-lNTBARYLWYvPs2-sqiv4BxuSs/view?usp=sharing)
+- [Canva](https://www.canva.com/design/DAGJ6Fx3ZB0/zQiQ8lRw7ostCmdAdFH6RQ/edit?utm_content=DAGJ6Fx3ZB0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Important Note
